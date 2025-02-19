@@ -10,8 +10,6 @@
   },
   "dependencies": {
     "@tailwindcss/postcss": "^4.0.7",
-    "lightningcss": "^1.29.1",
-    "lightningcss-win32-x64-msvc": "^1.29.1",
     "next": "15.1.7",
     "postcss": "^8.5.2",
     "react": "^19.0.0",
